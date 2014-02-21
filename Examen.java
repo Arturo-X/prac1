@@ -1,4 +1,4 @@
-Menu profesor: añadir preguntas a un banco de reactivos (almacenados en archivo)
+-CAMBIO-Menu profesor: añadir preguntas a un banco de reactivos (almacenados en archivo)
 		-modificar reactivos
 		-eliminar reactivos
 		-reporte de calificaciones
